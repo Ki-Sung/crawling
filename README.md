@@ -1,4 +1,4 @@
-# crawling
+# crawling for Python
 ### Image Crawler 
 - google image crawler - [google_crawler_no_fake_user.py](https://github.com/Ki-Sung/crawling/blob/main/img_crawler/google_crawler_no_fake_user.py)
 - insta image crawler - [insta_img_crawler.py](https://github.com/Ki-Sung/crawling/blob/main/img_crawler/insta_img_crawler.py)
